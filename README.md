@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a target="_blank" href="https://client-portfolio-eight.vercel.app/">
-    <img src="https://user-images.githubusercontent.com/106930540/183261130-a52d769f-ab54-48b5-895f-2f89948fa448.png" alt="Logo" width="940" height="720">
+    <img src="[https://user-images.githubusercontent.com/106930540/183261130-a52d769f-ab54-48b5-895f-2f89948fa448.png](https://user-images.githubusercontent.com/106930540/183261261-ba2ba4af-6f24-4477-9ad0-f7e6984e916a.png)" alt="Logo" width="940" height="720">
   </a>
 
 <h3 align="center">E-Portfolio</h3>
