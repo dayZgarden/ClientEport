@@ -2,19 +2,20 @@
 
 <br />
 <div align="center">
-  <a target="_blank" href="https://client-portfolio-eight.vercel.app/">
-    <img src="https://user-images.githubusercontent.com/106930540/183261261-ba2ba4af-6f24-4477-9ad0-f7e6984e916a.png" alt="Logo" width="940" height="720">
+  <a target="_blank" href="https://client-eport.vercel.app/">
+    <img src="https://user-images.githubusercontent.com/106930540/183261355-0cb8d9db-511c-4140-aad0-311fb1c210b1.png" alt="Logo" width="940" height="720">
   </a>
 
 <h3 align="center">E-Portfolio</h3>
 
   <p align="center">
-    Amazingly designed e-portfolio for a client with a great user experience. The client is able to put their information and their own projects into this portfolio.
+    Amazingly designed e-portfolio for a client with a great user experience. Features scroll event listener animations as well as an animated modal contact form.
+    The client is able to put their information and their own projects into this portfolio.
     <br />
     <a href="https://github.com/dayZgarden/ClientEport"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a target="_blank" href="https://client-portfolio-eight.vercel.app/">View Demo</a>
+    <a target="_blank" href="https://client-eport.vercel.app/">View Demo</a>
     ·
     <a href="mailto:zyad.alkurdi22@gmail.com">Report Bug</a>
     ·
